@@ -182,9 +182,6 @@ p{
     align-items: center;
     margin: 1rem 0;
 }
-.check-valid span:checked{
-    color: red;
-}
 .check-valid input{
     margin: 0 .5rem;
 }
