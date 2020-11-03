@@ -7,7 +7,7 @@
                 </div>
 
                 <div class="sign-inp">
-                    <p class="clr-darkBlue fnt-medium">Razón Social</p>
+                    <p class="clr-darkBlue fnt-medium">Razónes Social</p>
                     <input type="text" class="input-field">
                 </div>
                 <div class="sign-inp">
