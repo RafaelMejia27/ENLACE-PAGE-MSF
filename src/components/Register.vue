@@ -7,7 +7,7 @@
                 </div>
 
                 <div class="sign-inp">
-                    <p class="clr-darkBlue fnt-medium">Razón Social</p>
+                    <p class="clr-darkBlue fnt-medium">Razónes Social</p>
                     <input type="text" class="input-field">
                 </div>
                 <div class="sign-inp">
@@ -26,7 +26,7 @@
                 <div class="check-valid">
                     <input type="checkbox" class="input-chkd" id=""><span class="clr-gray">Acepto las politicas que se describen <a href="#">aquí</a></span>
                 </div>    
-                <input type="submit" value="Registrar" class="btn btn-blue" />
+                <a href="/Login" value="Registrar" class="btn btn-blue">Registrar</a>
             </div>   
 
             <div class="sign-pic">
